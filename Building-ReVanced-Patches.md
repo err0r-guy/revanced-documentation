@@ -50,7 +50,7 @@ Change accordingly
 
 (It is recommended to use a file explorer for this part)
 
-* Firstly, copy the jar file you built from `revanced-patcher/build/libs` using the guide of [ReVanced Patcher](https://github.com/CriticalRange/revanced-patcher)
+* Firstly, copy the jar file you built from `revanced-patcher/build/libs` using the guide of [ReVanced Patcher](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patcher)
 
 * Secondly, go to your root destination and then `.gradle/caches/modules-2/files-2.1/app.revanced/revanced-patcher/1.0.0-dev8` 
 
