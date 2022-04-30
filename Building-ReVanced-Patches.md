@@ -2,7 +2,7 @@
 
 * Fork of the repository for all ReVanced patches ([original here](https://github.com/ReVancedTeam/revanced-patches))
 
-Assuming you have built [ReVanced Patcher](https://github.com/RevancedTeam/revanced-patcher)
+Assuming you have built [ReVanced Patcher](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patcher)
 
 If you didn't, go ahead and do it since it will be required to build this project
 
