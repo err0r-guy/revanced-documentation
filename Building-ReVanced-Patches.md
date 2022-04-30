@@ -1,8 +1,8 @@
 # ReVanced Patches
 
-Fork of the repository for all ReVanced patches ([original here](https://github.com/ReVancedTeam/revanced-cli))
+* Fork of the repository for all ReVanced patches ([original here](https://github.com/ReVancedTeam/revanced-cli))
 
-Assuming you have built [patcher](https://github.com/CriticalRange/revanced-patcher)
+Assuming you have built [ReVanced Patcher](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patcher)
 
 If you didn't, go ahead and do it since it will be required to build this project
 
@@ -22,7 +22,7 @@ If you didn't, go ahead and do it since it will be required to build this projec
 
 * Build the project once, you should encounter errors (this is for creating the required files)
 
-`./gradlew build`
+`gradle build`
 
 ### Fixing the errors
 
@@ -38,9 +38,10 @@ For `username must not be null` error:
 
 5. You should see a code starting with "ghp_", copy all of it
 
-6. Now go back to cli and type `gradle build -Pgpr.user=username -Pgpr.key=token`
+6. Now go back to CLI and type `gradle build -Pgpr.user=username -Pgpr.key=token`
 
 `username` = Your GitHub account name
+
 `token` = the token you copied
 
 Change accordingly
@@ -49,7 +50,7 @@ Change accordingly
 
 (It is recommended to use a file explorer for this part)
 
-* Firstly, copy the jar file you built from `revanced-patcher/build/libs` using the guide of [patcher](https://github.com/CriticalRange/revanced-patcher)
+* Firstly, copy the jar file you built from `revanced-patcher/build/libs` using the guide of [ReVanced Patcher](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patcher)
 
 * Secondly, go to your root destination and then `.gradle/caches/modules-2/files-2.1/app.revanced/revanced-patcher/1.0.0-dev8` 
 
@@ -57,14 +58,14 @@ Change accordingly
 
 * You should be ready to build the project
 
-`gradle build`
+`gradle jar`
 
-* Lastly, go to `build/libs` inside the project and copy the jar file and do the same as in [Putting the Patcher jar file into Gradle dependencies](https://github.com/CriticalRange/revanced-patches/edit/dev/README.md#putting-the-patcher-jar-file-into-gradle-dependencies) but for patches instead.
+* Lastly, go to `build/libs` inside the project and copy the jar file and do the same as in [Putting the Patcher jar file into Gradle dependencies](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patches/_edit#putting-the-patcher-jar-file-into-gradle-dependencies) but for patches instead.
 
 ## Congratulations🎉!
 
-* You have successfully built the jar file of ReVanced Patcher!
+* You have successfully built the jar file of ReVanced Patches!
 
-* If you had any problems doing this or have suggestions, open an [issue](https://github.com/CriticalRange/revanced-patches/issues)
+* If you had any problems doing this or have suggestions, open an issue [here](https://github.com/ReVancedTeam/revanced-patches/issues)
 
-* Next to build: [ReVanced CLI (Last Part)](https://github.com/CriticalRange/revanced-cli)
+* Next to build: [ReVanced CLI](https://github.com/CriticalRange/revanced-cli/wiki/Building-the-ReVanced-CLI)
