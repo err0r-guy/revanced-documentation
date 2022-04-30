@@ -1,6 +1,6 @@
 # ReVanced Patches
 
-* Fork of the repository for all ReVanced patches ([original here](https://github.com/ReVancedTeam/revanced-cli))
+* Fork of the repository for all ReVanced patches ([original here](https://github.com/ReVancedTeam/revanced-patches))
 
 Assuming you have built [ReVanced Patcher](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patcher)
 
