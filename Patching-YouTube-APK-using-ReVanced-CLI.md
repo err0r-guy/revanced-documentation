@@ -1,6 +1,6 @@
 # Patching YouTube using ReVanced CLI
 
-* Assuming you have built [ReVanced CLI](https://github.com/CriticalRange/revanced-cli/wiki/Building-the-ReVanced-CLI) and ready to build the YouTube APK
+* Assuming you have built [ReVanced CLI](https://github.com/CriticalRange/revanced-cli/wiki/Building-the-ReVanced-CLI), [ReVanced Patcher](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patcher), [ReVanced Patches](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patches) and ready to build the YouTube APK
 
 ## Setting Up Directory
 
