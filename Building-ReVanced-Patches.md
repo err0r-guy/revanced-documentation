@@ -1,4 +1,4 @@
-# Revanced Patches
+# ReVanced Patches
 
 Fork of the repository for all ReVanced patches ([original here](https://github.com/ReVancedTeam/revanced-cli))
 
@@ -34,7 +34,7 @@ For `username must not be null` error:
 
 3. Go to Personal access tokens and click to "Generate new token"
 
-4. Type "Revanced" to note and tick the boxes (don't know which one is needed) and click to "Generate new token"
+4. Type "ReVanced" to note and tick the boxes (don't know which one is needed) and click to "Generate new token"
 
 5. You should see a code starting with "ghp_", copy all of it
 
@@ -63,8 +63,8 @@ Change accordingly
 
 ## Congratulations🎉!
 
-* You have successfully built the jar file of patcher
+* You have successfully built the jar file of ReVanced Patcher!
 
 * If you had any problems doing this or have suggestions, open an [issue](https://github.com/CriticalRange/revanced-patches/issues)
 
-* Next to build: [Revanced CLI (Last Part)](https://github.com/CriticalRange/revanced-cli)
+* Next to build: [ReVanced CLI (Last Part)](https://github.com/CriticalRange/revanced-cli)
