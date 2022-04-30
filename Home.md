@@ -1,6 +1,6 @@
 ## Welcome to the Revanced wiki!
 
-* This is an unofficial beta build wiki, so not many of the patches available at the moment
+* This is an unofficial beta build wiki for ReVanced CLI (at the moment ReVanced Manager is not released), so not many of the patches available at the moment
 
 But if you still want to try Revanced then I will help you do so.
 
@@ -13,4 +13,5 @@ But if you still want to try Revanced then I will help you do so.
 
 * **[Gradle](https://gradle.org/)** (If you are lazy installing it, you can change the commands `gradle` to `./gradlew` throughout the building process (don't forget to `chmod +x gradlew` when you first clone the repository)
 
+You can join the Team's [discord](https://discord.gg/rF2YcEjcrT) for more information regarding the progress of ReVanced
 Click the links below to start building!
