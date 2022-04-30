@@ -1,8 +1,8 @@
 # Revanced CLI
 
-Fork of the CLI version of the ReVanced Manager
+Guide for the CLI version of the ReVanced Manager
 
-If you don't know the first one, click [here](https://github.com/CriticalRange/revanced-patcher/blob/dev/README.md)
+* If you haven't built the [ReVanced Patcher](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patcher) and [ReVanced Patches](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patches), then go ahead and do it.
 
 ## Building
 
@@ -14,7 +14,7 @@ If you don't know the first one, click [here](https://github.com/CriticalRange/r
 
 `cd revanced-cli`
 
-* If you had put the [dependencies](https://github.com/CriticalRange/revanced-patches/blob/dev/README.md#putting-the-patcher-jar-file-into-gradle-dependencies) right, only thing left to do is to build via Gradle
+* If you had put the [dependencies](https://github.com/CriticalRange/revanced-cli/wiki/Building-ReVanced-Patches#putting-the-patcher-jar-file-into-gradle-dependencies) right, only thing left to do is to build via Gradle
 
 `gradle build shadowJar`
 
